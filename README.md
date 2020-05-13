@@ -1,5 +1,4 @@
 # hello-world
-Just anotha repository :))
 
 hi everyone!
 I have a deep rooted technology phobia
